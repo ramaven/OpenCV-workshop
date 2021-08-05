@@ -8,8 +8,8 @@ This workshop was conducted for NUS Statistics Society's Data Science Competitio
 
 | Name    | Role                                        | Github                      |
 | ------- | ------------------------------------------- | --------------------------- |
-| Jet     | NUS Statistics Society Workshop Director    | https://github.com/jetnew   |
-| Rama    | Presenter and material prep | https://github.com/ramaven  |
-| Georgie | Presenter and material prep | https://github.com/geoboom  |
-| Yi Zhe | Presenter and material prep | https://github.com/yizhe-ang |
-| Agatha | Presenterand material prep |  |
+| Jet New | NUS Statistics Society Workshop Director    | https://github.com/jetnew   |
+| Rama Venkatesh | Presenter and material prep | https://github.com/ramaven  |
+| Georgie Lee | Presenter and material prep | https://github.com/geoboom  |
+| Ang Yi Zhe | Presenter and material prep | https://github.com/yizhe-ang |
+| Agatha Tjandra | Presenter and material prep |  |
